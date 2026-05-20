@@ -1,0 +1,6 @@
+{
+  "name": "Dorisa Camps Portfolio",
+  "description": "The professional art portfolio and meditative gallery of Cuban-French abstract expressionist painter Dorisa Camps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
